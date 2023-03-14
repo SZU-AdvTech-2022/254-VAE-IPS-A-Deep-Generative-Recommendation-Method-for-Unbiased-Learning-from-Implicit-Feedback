@@ -1,4 +1,4 @@
-@inproceedings{REPO-255,
+@inproceedings{REPO-254,
     author = "GUPTA, SHASHANK and Oosterhuis, Harrie and de Rijke, M.",
     title = "{VAE-IPS: A Deep Generative Recommendation Method for Unbiased Learning from Implicit Feedback}",
     year = "2022"
